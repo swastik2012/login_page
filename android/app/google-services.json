@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079773130590",
+    "project_id": "chatgptapp-e86e5",
+    "storage_bucket": "chatgptapp-e86e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079773130590:android:84d4bd29b7cbd76c6769cf",
+        "android_client_info": {
+          "package_name": "com.example.chatgpt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079773130590-sr5j6qoupligj5iaecas240pvmkv1hqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKgnQUFA9X34CnCMVHLfyiDjWNAJeIj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079773130590-iaqi15lvvasnmmvlk56fri0uq4s91n3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
